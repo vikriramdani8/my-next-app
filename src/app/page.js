@@ -4,7 +4,7 @@ export default function Home() {
 	return (
 		<div>
 			<h1>Welcome to the Next.js Tutorial</h1>
-			<h2>hahahaha</h2>
+			<h2>asasa hencet</h2>
 		</div>
 	);
 }
